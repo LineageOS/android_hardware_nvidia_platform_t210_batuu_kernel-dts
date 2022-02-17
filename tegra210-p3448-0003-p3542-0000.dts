@@ -99,7 +99,7 @@
 			status = "disabled";
 		};
 		i2c@546c0000 {
-			ina3221x: ina3221x@40 {
+			ina3221: ina3221@40 {
 				status = "disabled";
 			};
 		};
